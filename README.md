@@ -10,4 +10,4 @@ This repository contains a simple yet attractive web application designed to sho
 * The backside also includes a 'Buy Now' button, which could be linked to a product page or a checkout page.
 
 
-* To visualize the page follow this [link] (https://nobletk.github.io/3D-product-flip-cards/flipCards.html)
+* To visualize the page follow this [link](https://nobletk.github.io/3D-product-flip-cards/flipCards.html) to my git page.
